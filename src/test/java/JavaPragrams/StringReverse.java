@@ -12,5 +12,6 @@ public class StringReverse {
 			rev = rev + str.charAt(i);
 		}
 		System.out.println(rev);
+		System.out.println("Done programe");
 	}
 }
